@@ -26,7 +26,7 @@ def plot_elapsed_times(elapsed_times):
     plt.ylabel('Количество запросов')
     plt.title('Распределение времени передачи')
     plt.grid(True)
-    plt.savefig('Распределение времени передачи.png')
+    plt.savefig('Распределение_времени_передачи.png')
     # plt.show()
 
 def main():
