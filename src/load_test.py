@@ -3,7 +3,7 @@ import asyncio
 import time
 import random
 import csv
-from client import AggregatedClient
+from client import *
 
 async def run_client(data_size, server_address, channels, stats):
     try:

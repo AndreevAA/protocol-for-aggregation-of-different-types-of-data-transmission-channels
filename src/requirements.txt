@@ -3,3 +3,4 @@ pycryptodome
 Crypto
 uvicorn
 matplotlib
+pylint
