@@ -1,0 +1,5 @@
+fastapi
+pycryptodome
+Crypto
+uvicorn
+matplotlib
